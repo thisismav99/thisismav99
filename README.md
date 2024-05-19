@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mave Rick, you can call me Mav forever.
-- 💻 I'm well experienced in developing Web Applications using ASP.NET MVC, HTML, CSS, JavaScript, Bootstrap, jQuery and MS SQL. 
+- 💻 I'm well experienced in developing Web Applications using ASP.NET MVC, ASP.NET WEB API, HTML, CSS, JavaScript, Bootstrap, jQuery and MS SQL. 
 - 👀 I’m interested in Web Programming!
-- 🌱 I’m currently learning React JS, Firebase, Tailwind CSS, and mobile development.
+- 🌱 I’m currently learning Svelte and Sveltekit.
 - 📫 Reach me at maverickcpaz@gmail.com
 
 <!---
