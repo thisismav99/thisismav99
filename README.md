@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Mave Rick, you can call me Mav forever.
-- 💻 I'm well experienced in developing Web Applications using ASP.NET MVC, ASP.NET WEB API, HTML, CSS, JavaScript, Bootstrap, jQuery and MS SQL. 
-- 👀 I’m interested in Web Programming!
-- 🌱 I’m currently learning Svelte and Sveltekit.
-- 📫 Reach me at maverickcpaz@gmail.com
+Hi, I am Mave Rick but you can call me Mav! I love to write code and keeping up to date with the latest technologies.
 
 <!---
 thisismav99/thisismav99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
